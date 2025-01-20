@@ -26,11 +26,14 @@ btnNombre       //Button
 
 |                Boton                          |      Casos            |    Color     | Color letra  |
 |-----------------------------------------------|-----------------------|--------------|--------------|
-|![Boton salir](/Images/BotonSalir.png)         |Cancelar/Eliminar/salir|@Danger       |@activeBorder |
+|![Boton salir](/Images/BotonSalir.png)         |/Eliminar/salir        |@Danger       |@activeBorder |
 |![Boton consultar](/Images/BotonConsultar.png) |Nuevo/agregar/Guardar  |@primary      |@activeBorder |
 |![Boton Excel](/Images/BotonExcel.png)         |Exportacion a Excel    |@success      |@activeBorder |
 |![Boton Editar](/Images/BotonOtro.png)         |Editar/Otros           |DarkOrange    |@activeBorder |
 |![Boton Editar](/Images/BotonMorado.png)       |Buscar                 |SlateBlue     |@activeBorder |
+|![Boton Cancelar](/Images/Cancelar.jpeg)       |Cancelar               |0, 0, 0       |@activeBorder |
+|![Boton Editar](/Images/Nuevo.jpeg)            |Nuevo                  |Chartreuse    |0, 0, 0       |
+|![Boton Editar](/Images/Guardar.jpeg)          |Guardar                |255, 167, 0   |0, 0, 0       |
   
 
 ### Tamaño
