@@ -26,8 +26,8 @@ btnNombre       //Button
 
 |                Boton                          |      Casos            |    Color     | Color letra  |
 |-----------------------------------------------|-----------------------|--------------|--------------|
-|![Boton salir](/Images/BotonSalir.png)         |Eliminar/salir        |@Danger       |@activeBorder |
-|![Boton consultar](/Images/BotonConsultar.png) |Nuevo/agregar/Guardar  |@primary      |@activeBorder |
+|![Boton salir](/Images/BotonSalir.png)         |Eliminar/salir         |@Danger       |@activeBorder |
+|![Boton consultar](/Images/BotonConsultar.png) |Guardar                |@primary      |@activeBorder |
 |![Boton Excel](/Images/BotonExcel.png)         |Exportacion a Excel    |@success      |@activeBorder |
 |![Boton Editar](/Images/BotonOtro.png)         |Editar/Otros           |DarkOrange    |@activeBorder |
 |![Boton Editar](/Images/BotonMorado.png)       |Buscar                 |SlateBlue     |@activeBorder |
